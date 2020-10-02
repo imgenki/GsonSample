@@ -1,3 +1,4 @@
+package dad.maven.gson;
 public class Persona {
 	private String nombre;
 	private String apellidos;
